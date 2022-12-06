@@ -1,4 +1,4 @@
-
+// Jeff Taylor: this is a comment
 const electron = require('electron');
 const updater = require('electron-updater');
 const fs = require('fs');
